@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: NumberBaseConverter.ConvertIT
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.061 s <<< FAILURE! - in NumberBaseConverter.ConvertIT
+testConvertValue_BinaryToBinary  Time elapsed: 0.008 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <11111111> but was: <>
+	at NumberBaseConverter.ConvertIT.testConvertValue_BinaryToBinary(ConvertIT.java:126)
+
+testConvertValue_HexToHex  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <FF> but was: <>
+	at NumberBaseConverter.ConvertIT.testConvertValue_HexToHex(ConvertIT.java:102)
+

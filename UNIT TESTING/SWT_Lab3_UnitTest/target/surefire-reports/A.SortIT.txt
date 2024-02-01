@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: A.SortIT
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.06 s <<< FAILURE! - in A.SortIT
+testMergeDesc  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: array contents differ at index [1], expected: <1> but was: <4>
+	at A.SortIT.testMergeDesc(SortIT.java:118)
+
+testPartition  Time elapsed: 0.004 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <3> but was: <4>
+	at A.SortIT.testPartition(SortIT.java:137)
+

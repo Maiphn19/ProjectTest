@@ -1,0 +1,57 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.5
+Created-By: 11.0.17+8 (Eclipse Adoptium)
+
+Name: netbeans/sonar/plugins/sonar-php-plugin-3.25.0.9077.jar
+SHA-256-Digest: HZKsJTCLD957CtvHl7am1OM5wGKjF7nJxxdSQbe0uPI=
+
+Name: netbeans/sonar/plugins/sonar-xml-plugin-2.6.1.3686.jar
+SHA-256-Digest: npcCELAa/LTyP4qDlomYgYUWLFVfPJ04mF51Bkm4zts=
+
+Name: netbeans/modules/ext/com.github.philippefichet.sonarlint4netbeans/
+ org-apache-commons/commons-lang3.jar
+SHA-256-Digest: 2RnZBEhsA3+NGTQS2gyS4iqfokIwudZ6V4VcXDHH6U4=
+
+Name: netbeans/modules/ext/com.github.philippefichet.sonarlint4netbeans/
+ com-google-code-gson/gson.jar
+SHA-256-Digest: N4U04znm5tULFzb7Ort28cFdG+P0wTzsbVNkEuI9pgM=
+
+Name: netbeans/modules/ext/com.github.philippefichet.sonarlint4netbeans/
+ org-sonarsource-javascript/nodejs-utils.jar
+SHA-256-Digest: InWDOjWDVwu1/JSlXivLEPwtRbNE/yYLOiy8Xl+ff+4=
+
+Name: netbeans/sonar/plugins/sonar-java-plugin-7.15.0.30507.jar
+SHA-256-Digest: ku5J9h/wJyffsZzoukuWegQWndS5qkfAm9/0y6tCoDc=
+
+Name: netbeans/update_tracking/com-github-philippefichet-sonarlint4netbe
+ ans.xml
+SHA-256-Digest: XVeFQrz9j8uJxZFZ8i9TNbAJqdljwVUP73I43ZSZwaw=
+
+Name: netbeans/modules/ext/com.github.philippefichet.sonarlint4netbeans/
+ org-apache-commons/commons-text.jar
+SHA-256-Digest: dwzZA/p7YE0ffve6F/hBCGZylLK0eL6O0a87/7SuABg=
+
+Name: netbeans/sonar/plugins/sonar-html-plugin-3.6.0.3106.jar
+SHA-256-Digest: mYgbEOavd5zDkyl5j/7F5Pk48+XW45N1tRmzU6NQnKg=
+
+Name: Info/info.xml
+SHA-256-Digest: ImTb+HXg3RSEjhoUTnpDsRZaTnSW+5GuwgvChfb8MiE=
+
+Name: netbeans/config/Modules/com-github-philippefichet-sonarlint4netbea
+ ns.xml
+SHA-256-Digest: 0TZNyNumDQ3cOYy6XV1b2EospLlmI4VcBkoLxnqWtgE=
+
+Name: netbeans/modules/com-github-philippefichet-sonarlint4netbeans.jar
+SHA-256-Digest: 7NejY6qR5FIzdLfTQCtcAELC2vP2DUgrw9+tP2qRYjk=
+
+Name: netbeans/modules/ext/com.github.philippefichet.sonarlint4netbeans/
+ com-google-code-findbugs/jsr305.jar
+SHA-256-Digest: kFchoO6pCoFTSrt+5u9OouXmRfod7wpc2IQC3xtGye0=
+
+Name: netbeans/modules/ext/com.github.philippefichet.sonarlint4netbeans/
+ org-sonarsource-sonarlint-core/sonarlint-core.jar
+SHA-256-Digest: 4sFWVCUz7NnJcZ3AdjHgtyqqDg9bv35vEC9VVJgIfTM=
+
+Name: netbeans/sonar/plugins/sonar-javascript-plugin-9.11.1.20218.jar
+SHA-256-Digest: c2nrZjJfzzQNEO4WhL2AlFXC/4Ac8YfSMTcbLTLPuFE=
+

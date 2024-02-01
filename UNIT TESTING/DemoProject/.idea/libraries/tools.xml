@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="tools">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tools/jakarta.servlet.jsp.jstl-api-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/restfb-2023.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/gson-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/jakarta.servlet.jsp.jstl-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/sqljdbc42.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/jstl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

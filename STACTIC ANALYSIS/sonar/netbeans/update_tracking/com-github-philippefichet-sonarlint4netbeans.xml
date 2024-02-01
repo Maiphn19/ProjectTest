@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.github.philippefichet.sonarlint4netbeans/1">
+    <module_version install_time="1672233870129" last="true" origin="installer" specification_version="3.0.1">
+        <file crc="1946289000" name="config/Modules/com-github-philippefichet-sonarlint4netbeans.xml"/>
+        <file crc="3417968272" name="modules/com-github-philippefichet-sonarlint4netbeans.jar"/>
+        <file crc="2951600616" name="modules/ext/com.github.philippefichet.sonarlint4netbeans/com-google-code-findbugs/jsr305.jar"/>
+        <file crc="2827365722" name="modules/ext/com.github.philippefichet.sonarlint4netbeans/com-google-code-gson/gson.jar"/>
+        <file crc="167814075" name="modules/ext/com.github.philippefichet.sonarlint4netbeans/org-apache-commons/commons-lang3.jar"/>
+        <file crc="998636266" name="modules/ext/com.github.philippefichet.sonarlint4netbeans/org-apache-commons/commons-text.jar"/>
+        <file crc="2130105996" name="modules/ext/com.github.philippefichet.sonarlint4netbeans/org-sonarsource-javascript/nodejs-utils.jar"/>
+        <file crc="456534205" name="modules/ext/com.github.philippefichet.sonarlint4netbeans/org-sonarsource-sonarlint-core/sonarlint-core.jar"/>
+        <file crc="81610588" name="sonar/plugins/sonar-html-plugin-3.6.0.3106.jar"/>
+        <file crc="4143476851" name="sonar/plugins/sonar-java-plugin-7.15.0.30507.jar"/>
+        <file crc="3143411642" name="sonar/plugins/sonar-javascript-plugin-9.11.1.20218.jar"/>
+        <file crc="286318628" name="sonar/plugins/sonar-php-plugin-3.25.0.9077.jar"/>
+        <file crc="417102192" name="sonar/plugins/sonar-xml-plugin-2.6.1.3686.jar"/>
+        <file crc="2394503379" name="update_tracking/com-github-philippefichet-sonarlint4netbeans.xml"/>
+    </module_version>
+</module>
